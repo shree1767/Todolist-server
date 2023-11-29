@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# Build artifacts
+dist/
+
+# Dependency directories
+jspm_packages/
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# OS-specific files
+Thumbs.db
+Desktop.ini
+
+# Compiled binary addons
+build/Release
